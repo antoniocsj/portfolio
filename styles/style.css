@@ -141,6 +141,11 @@ body {
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 20px;
+    }
+
+    .cabecalho__menu__link {
+        padding: 10px 10px;
     }
 
     .apresentacao {
